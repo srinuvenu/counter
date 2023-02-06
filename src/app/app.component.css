@@ -1,0 +1,30 @@
+.main{
+    height: 50vh;
+    background:lightblue;
+    border: solid 1px black;
+    text-align:center;
+    width: 40%;
+    padding:3rem;
+}
+.counter{
+    margin: 5px;
+    text-align: center;
+    font-size: 50px;
+}
+.one{
+    padding: 5px;
+    background: green;
+    margin: 7px;
+
+}
+.two{
+    padding: 5px;
+    background: red;
+    margin: 7px;
+
+}
+.three{
+    padding: 5px;
+    background: yellow;
+    margin: 7px;
+}
